@@ -25,6 +25,9 @@ Give time.sleep() for a break.
 Give ep_chassis.drive_speed to have a circular movement.
 
 ## Program
+
+## Developed By : VIMALRAJ B
+## Register Number : 212224230304
 ```
 from robomaster import robot
 import time
@@ -90,7 +93,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+
 <img width="411" height="294" alt="image" src="https://github.com/user-attachments/assets/1f7223e1-b38e-41ef-ac06-b886f4021589" />
 
 
